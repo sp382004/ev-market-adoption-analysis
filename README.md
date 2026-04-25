@@ -17,7 +17,10 @@ Analyzed electric vehicle registration data to identify adoption trends, leading
 This project analyzes electric vehicle (EV) population data to understand adoption trends, leading manufacturers, and geographic distribution within Washington State.
 
 ## Objective
-Identify patterns in EV growth, market dominance, and regional adoption using exploratory data analysis and visualization.
+- Understand EV growth over time
+- Identify leading manufacturers
+- Analyze geographic adoption patterns
+- Compare EV types (BEV vs PHEV)
 
 ## Tools Used
 - Python
@@ -67,7 +70,7 @@ ev-market-adoption-analysis/
 ### Top Manufacturers
 ![Top Manufacturers](visuals/charts/top_manufacturers.png)
 
-### EV Growth Over Time
+### 📈 EV Growth Over Time
 ![EV Growth](visuals/charts/ev_growth.png)
 
 View the full notebook here: [`notebooks/ev_analysis.ipynb`](notebooks/ev_analysis.ipynb)
@@ -76,7 +79,7 @@ View the full notebook here: [`notebooks/ev_analysis.ipynb`](notebooks/ev_analys
 
 Open the notebook and run all cells to reproduce analysis and visualizations.
 
-## Installation Instructions
+## ▶️ Installation Instructions
 
 1. Install dependencies:
 
@@ -97,7 +100,7 @@ Open the notebook and run all cells to reproduce analysis and visualizations.
 - Washington State Department of Licensing
 - Electric Vehicle Population Data
 
-## 👨‍💻 Author
+## ✍️ Author
 Smit Patel  
 Computer Science @ Drexel University  
 [LinkedIn](linkedin.com/in/smitpatel3824) | [GitHub](github.com/sp382004)
