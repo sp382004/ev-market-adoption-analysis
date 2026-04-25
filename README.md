@@ -103,4 +103,4 @@ Open the notebook and run all cells to reproduce analysis and visualizations.
 ## ✍️ Author
 Smit Patel  
 Computer Science @ Drexel University  
-[LinkedIn](linkedin.com/in/smitpatel3824) | [GitHub](github.com/sp382004)
+[LinkedIn](https://www.linkedin.com/in/smitpatel3824) | [GitHub](https://github.com/sp382004)
