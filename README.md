@@ -34,7 +34,7 @@ This project analyzes electric vehicle (EV) population data to understand adopti
 - Geographic distribution (counties and cities)
 - EV type distribution (BEV vs PHEV)
 
-## Project Structure
+## 📁 Project Structure
 
 ```text
 ev-market-adoption-analysis/
@@ -70,7 +70,7 @@ ev-market-adoption-analysis/
 ### Top Manufacturers
 ![Top Manufacturers](visuals/charts/top_manufacturers.png)
 
-### 📈 EV Growth Over Time
+### EV Growth Over Time
 ![EV Growth](visuals/charts/ev_growth.png)
 
 View the full notebook here: [`notebooks/ev_analysis.ipynb`](notebooks/ev_analysis.ipynb)
