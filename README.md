@@ -22,6 +22,7 @@ Identify patterns in EV growth, market dominance, and regional adoption using ex
 
 ## Project Structure
 
+```text
 ev-market-adoption-analysis/
 │
 ├── data/
@@ -40,7 +41,7 @@ ev-market-adoption-analysis/
 │
 ├── requirements.txt
 └── README.md
-
+```
 
 ## Key Insights
 
