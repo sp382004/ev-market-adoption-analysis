@@ -50,7 +50,16 @@ ev-market-adoption-analysis/
 - Battery Electric Vehicles (BEVs) are more common than Plug-in Hybrid Electric Vehicles (PHEVs)  
 - Urban areas show higher EV adoption
 
-## How to Run
+## Sample Visualizations
+
+![Top Manufacturers](visuals/charts/top_manufacturers.png)
+![EV Growth](visuals/charts/ev_growth.png)
+
+## Usage
+
+Open the notebook and run all cells to reproduce analysis and visualizations.
+
+## Installation instructions
 
 1. Install dependencies:
    pip install -r requirements.txt
